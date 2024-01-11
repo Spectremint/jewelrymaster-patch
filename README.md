@@ -1,7 +1,7 @@
 **Jewelry Master** is a 2006 puzzle game by Arika, the creators of Tetris: The Grand Master. <br>
 **The game is freeware and can be downloaded [here.](http://web.archive.org/web/20070629133551/http://www.arika.co.jp/arika_eng/download/down3.html)**<br>
 <br>
-The game required servers to function and only worked online, and the servers have been down for more than a decade. However, this patch will allow you to play the game without any internet connection whatsoever.
+The game required servers to function and only worked online, and the servers have been down for more than a decade. However, this patch will allow you to play the game without any internet connection whatsoever. The only thing that doesn't work is replays, as they require an internet connection.
 <br>
 <br>
 # Technical Notes
